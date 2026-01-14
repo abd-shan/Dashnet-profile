@@ -1137,7 +1137,7 @@ h1, h2, h3, h4, h5, h6 {
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
     width: 100%;
-    margin-top: 20px;
+    margin: 20px 0;
 }
 
 .notice-icon {
